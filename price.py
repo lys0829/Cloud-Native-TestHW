@@ -1,3 +1,2 @@
 def price(books):
-    
-    return 0
+    return len(books)*8.0
